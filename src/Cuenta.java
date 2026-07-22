@@ -44,7 +44,8 @@ public class Cuenta {
         transacciones.add(t);
     }
 
-    // -------- Getters y Setters --------
+    //Getters y Setters
+
 
     public int getNumCuenta() { return numCuenta; }
     public void setNumCuenta(int numCuenta) { this.numCuenta = numCuenta; }
